@@ -38,7 +38,8 @@ Download demo patient data here: https://drive.google.com/drive/folders/16BqCA9J
    - Move 'BCI2000 code/ADM.exe' into the 'prog' folder in BCI2000
    - Move the 'BCI2000 code/ADM' folder into the 'src/custom' folder in BCI2000 and compile the code following: https://www.bci2000.org/mediawiki/index.php/Programming_Howto:Create_a_custom_Signal_Processing_Module
 
- - Move the 'setBCI2000params.ipynb', 'Data_Patient_05_PRE.dat' and 'demo.prm' into the 'tools/python' folder in BCI2000
+ - Move the 'setBCI2000params.ipynb' and 'demo.prm' into the 'tools/python' folder in BCI2000
+ - Move 'Data_Patient_05_PRE.dat' in the BCI2000 folder
  - After running the notebook, you will obtain an ADM data encoding in a file called 'UPDN_demo.txt',identical to the one provided in 'BCI2000 code'
 
 Expected run time: 7 min
