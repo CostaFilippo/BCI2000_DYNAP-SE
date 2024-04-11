@@ -1,6 +1,8 @@
 # BCI2000_DYNAP-SE
 Code related to 'Robust compression and detection of epileptiform patterns in ECoG using a real-time spiking neural network hardware framework' [https://doi.org/10.1038/s41467-024-47495-y](https://doi.org/10.1038/s41467-024-47495-y)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10959559.svg)](https://doi.org/10.5281/zenodo.10959559)
+
 ### System requirements
 
 Windows (for BCI2000 code)
