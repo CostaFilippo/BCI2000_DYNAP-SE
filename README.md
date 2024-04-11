@@ -1,5 +1,5 @@
 # BCI2000_DYNAP-SE
-Code related to 'Robust compression and detection of epileptiform patterns in ECoG using a real-time spiking neural network hardware framework' [https://doi.org/10.21203/rs.3.rs-3591328/v1](https://doi.org/10.1038/s41467-024-47495-y)
+Code related to 'Robust compression and detection of epileptiform patterns in ECoG using a real-time spiking neural network hardware framework' [https://doi.org/10.1038/s41467-024-47495-y](https://doi.org/10.1038/s41467-024-47495-y)
 
 ### System requirements
 
@@ -33,7 +33,7 @@ Estimated install time: 2 hours
 
 ### Demo
 
-Download the dataset: https://openneuro.org/datasets/ds004944/versions/1.0.0
+Download the dataset: doi:10.18112/openneuro.ds004944.v1.1.0
 
 **BCI2000 code/ setBCI2000params.ipynb**
  - Add the ADM module to BCI2000 following one of these two approaches:
