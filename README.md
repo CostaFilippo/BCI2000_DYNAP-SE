@@ -33,7 +33,7 @@ Estimated install time: 2 hours
 
 ### Demo
 
-Download the dataset: doi:10.18112/openneuro.ds004944.v1.1.0
+Download the dataset: [doi:10.18112/openneuro.ds004944.v1.1.0](doi:10.18112/openneuro.ds004944.v1.1.0)
 
 **BCI2000 code/ setBCI2000params.ipynb**
  - Add the ADM module to BCI2000 following one of these two approaches:
